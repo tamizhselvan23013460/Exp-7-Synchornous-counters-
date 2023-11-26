@@ -59,29 +59,20 @@ RegisterNumber:23001663
 ![downcounter code](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/af37ef9c-e7d3-4095-8418-aef888fada03)
 ## UPCOUNTER:
 ![upcounter code](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/a834d0cd-19c1-47f5-9441-3e302c632629)
-### RTL LOGIC DOWN COUNTER AND UP COUNTER  
+## RTL viewer:
+## DOWN COUNTER:
 ![DOWNCOUNTER gate](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/a149d880-49da-46a2-b078-01842a89ab4c)
+## UPCOUNTER:
 ![upcounter gate](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/c717b4ee-ca74-4f87-bd7c-5f2b48a67bcb)
-
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
-### TRUTH TABLE 
-
-
-
-
-
-
-### RESULTS 
+### TIMING DIGRAM:
+## DOWN COUNTER:
+![downcounter wave](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/9eafa68f-191f-4fa8-b29e-5dd9d5f62776)
+## UP COUNTER:
+![upcounter wave](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/ba3bd18f-0364-4839-9399-38a14c8fa81c)
+### TRUTH TABLE:
+## DOWN COUNTER:
+![image](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/69d37c27-588f-48e7-b140-e4931928c4b7)
+## UP COUNTER:
+![image](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/eefaaa9c-75e3-4961-a84c-bb5e36d7c245)
+### RESULTS :
+Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
