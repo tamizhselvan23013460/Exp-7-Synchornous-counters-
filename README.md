@@ -71,8 +71,8 @@ RegisterNumber:23001663
 ![upcounter wave](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/ba3bd18f-0364-4839-9399-38a14c8fa81c)
 ### TRUTH TABLE:
 ## DOWN COUNTER:
-![image](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/69d37c27-588f-48e7-b140-e4931928c4b7)
+![image](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/83fdc0d1-5e9f-4cc5-ae51-f40632732d4f)
 ## UP COUNTER:
-![image](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/eefaaa9c-75e3-4961-a84c-bb5e36d7c245)
+![image](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/138ccadb-fe7d-4159-a20b-08670da5680d)
 ### RESULTS :
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
