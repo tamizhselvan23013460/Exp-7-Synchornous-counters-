@@ -36,7 +36,7 @@ Four-bit “Up” Counter
 
 
 
-## DOWN COUNTER 
+## DOWN COUNTER :
 
 As well as counting “up” from zero and increasing or incrementing to some preset value, it is sometimes necessary to count “down” from a predetermined value to zero allowing us to produce an output that activates when the zero count or some other pre-set value is reached.
 
